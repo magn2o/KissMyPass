@@ -1,0 +1,10 @@
+Package: com.fortysixandtwo.kissmypass
+Name: Kiss My Pass
+Depends: firmware (>=8.0), mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Delete mail from the lockscreen without entering a passcode.
+Depiction: http://repo.fortysixandtwo.com/x/com.fortysixandtwo.kissmypass
+Maintainer: magn2o
+Author: magn2o
+Section: Tweaks
