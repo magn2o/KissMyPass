@@ -3,7 +3,7 @@
 static NSDictionary *validIdentifiers = @{
 	@"com.microsoft.Office.Outlook" : @"DeleteActionIdentifier",
 	@"com.apple.mobilemail" : @"MFMailBBDeleteActionIdentifier",
-	@"com.google.Gmail" : @"2"
+	@"com.google.Gmail" : @"2" // 2? Really, Google? *2*?!
 };
 
 %hook SBLockScreenActionContext
