@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = KissMyPassPrefs;
+	cell = PSLinkCell;
+	detail = KissMyPassPrefsListController;
+	icon = KissMyPass.png;
+	isController = 1;
+	label = KissMyPass;
+    };
+}
